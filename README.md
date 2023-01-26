@@ -1,7 +1,7 @@
 - 👋 Hi, I’m IAN WANDETO
-- 👀 I’m interested in Software Development and UX Design.
-- 🌱 I’m currently learning Software Engineering and UX Design
-- 💞️ I’m looking to collaborate on UX Design Projects and soon Computer Programming.
+- 👀 I’m interested in Software Development and Engineering.
+- 🌱 I’m currently learning Python Programming.
+- 💞️ I’m looking to collaborate on Software Development projects
 - 📫 You can reach me on my email - wandettoian@gmail.com
 
 <!---
