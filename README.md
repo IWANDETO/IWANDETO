@@ -1,7 +1,7 @@
 - 👋 Hi, I’m IAN WANDETO
-- 👀 I’m interested in Software Development and Engineering.
-- 🌱 I’m currently learning Python Programming.
-- 💞️ I’m looking to collaborate on Software Development projects
+- 👀 I’m a Software Developer and Cyber Security Enthusiast.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on Software Development projects.
 - 📫 You can reach me on my email - wandettoian@gmail.com
 
 <!---
